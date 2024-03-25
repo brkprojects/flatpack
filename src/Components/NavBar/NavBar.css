@@ -1,0 +1,7 @@
+.contents{
+    display: flex;
+    flex-direction: row;
+    padding-left: 500px;
+    gap: 10px;
+    background-color: aqua;
+}
