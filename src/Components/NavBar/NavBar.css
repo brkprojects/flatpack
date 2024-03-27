@@ -1,7 +1,28 @@
-.contents{
+.header {
+    background-color: white;
+    display: flex;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 100px;
+    color:black;
+}
+.nav-icons{
     display: flex;
     flex-direction: row;
-    padding-left: 500px;
-    gap: 10px;
-    background-color: aqua;
+    gap: 20px;
+}
+.bi{
+    height: 20px;
+    width: 20px;
+}
+.stay{
+   padding-left: 750px;
+   font-size: 18px;
+}
+.container{
+    position: fixed;
+    background: fixed;
+    width: 1475px;
 }
