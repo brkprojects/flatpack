@@ -1,0 +1,87 @@
+.gymlife {
+    background: #fff;
+    background-size: cover;
+    align-items: center;
+}
+
+
+.toppadding {
+    padding-top: 40px;
+    display: flex;
+    gap: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+.part {
+    position: relative;
+    text-align: center;
+    border-radius: 16px;
+    box-shadow: 10px 10px 10px 10px grey;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+
+}
+
+.logostyle {
+    border-radius: 100%;
+    
+}
+
+.imggym {
+    text-align: center;
+    width: auto;
+    overflow: hidden;
+}
+
+.imggym img {
+    margin-top: 20px;
+    margin-left: -100%;
+    margin-right: -100%;
+    height: 250px;
+    width: 250px;
+}
+
+.textgymstyle {
+    position: relative;
+    padding: 15px 0px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.gym {
+    color: #000;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'open sans', sans-serif;
+}
+
+.gymtext {
+    color: rgb(169, 169, 169);
+    font-size: 16px;
+    font-family: 'open sans', sans-serif;
+    max-width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.linkbutton a {
+    background: #ff8833;
+    font-size: 15px;
+    color: #fff;
+    font-family: 'open sans', sans-serif;
+    border-radius: 3px;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    padding: 7px 25px 5px 25px;
+    margin-bottom: 30px;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+}
