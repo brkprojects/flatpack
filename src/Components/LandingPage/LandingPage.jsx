@@ -4,7 +4,7 @@ import '../LandingPage/LandingPage.css'
 function LandingPage() {
     return (
         <div class='head'>
-            <div className='main-heading'>THE SHAPE OF YOUR LIFE. PERIOD.</div>
+            <div className='main-heading'>THE SHAPE OF YOUR LIFE.. PERIOD.</div>
             <div className='heading-two'>High intensity workouts. Training plans. Personalized to you.</div>
             <button className='button'><i class="fa-solid fa-bars"></i>Start Your Workout Now</button>
             <p className="note">*Note: Bundle ends in two weeks from now.</p>
