@@ -7,7 +7,7 @@ import logo3 from '../Assets/logo3.png'
 function Branding() {
     return (
         <div class='logossection'>
-            <div class="textlogos">SOME OF THE WORLD'S MOST RESPECTED COMPANIES TRUST FLATPACK</div>
+            <div class="textlogo">SOME OF THE WORLD'S MOST RESPECTED COMPANIES TRUST FLATPACK</div>
 
             <div class="paddingupdown">
             <img src={logo1}  height="38px" />
