@@ -4,14 +4,12 @@
     align-items: center;
 }
 
-
 .toppadding {
     padding-top: 40px;
     display: flex;
     gap: 40px;
     padding-left: 100px;
     padding-right: 100px;
-    
 }
 
 .part {
@@ -24,12 +22,10 @@
     display: flex;
     flex-direction: column;
     width: 500px;
-
 }
 
 .logostyle {
     border-radius: 100%;
-    
 }
 
 .imggym {
@@ -57,13 +53,11 @@
     color: #000;
     font-weight: bold;
     font-size: 25px;
-    font-family: 'open sans', sans-serif;
 }
 
 .gymtext {
     color: rgb(169, 169, 169);
     font-size: 16px;
-    font-family: 'open sans', sans-serif;
     max-width: 200px;
     margin-right: auto;
     margin-left: auto;
@@ -71,9 +65,7 @@
 
 .linkbutton a {
     background: #ff8833;
-    font-size: 15px;
     color: #fff;
-    font-family: 'open sans', sans-serif;
     border-radius: 3px;
     text-decoration: none;
     position: relative;
