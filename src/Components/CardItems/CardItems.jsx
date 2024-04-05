@@ -16,7 +16,7 @@ function CardItems() {
                         <p class="gym">Welcome to Gym</p>
                         <p class="gymtext">Lorem ipsum dolor sit amet consectetur adipiscing elite.</p>
                     </div>
-                    <span class="linkbutton"><a>Join Now</a></span>
+                    <span class="linkbutton"><a>Join Now.</a></span>
                 </div>
 
 
